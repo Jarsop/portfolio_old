@@ -1,0 +1,12 @@
+6
+##start
+salle2 5 0
+salle0 1 2
+##end
+salle1 9 2
+salle3 5 4
+salle0-salle2
+salle0-salle3
+salle2-salle1
+salle3-salle1
+salle2-salle3

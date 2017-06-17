@@ -1,0 +1,22 @@
+﻿2017-03-27 21:23:22.469403|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.6 (2016-11-08 08:48:33)
+2017-03-27 21:23:22.469534|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.4.0-64-generic #85-Ubuntu SMP Mon Feb 20 11:50:30 UTC 2017 x86_64 Binary: 64bit
+2017-03-27 21:23:22.469574|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2017-03-27 21:23:22.469598|INFO    |ServerLibPriv |   |Using hardware aes
+2017-03-27 21:23:22.470606|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-03-27 21:23:22.470655|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-03-27 21:23:22.470921|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-03-27 21:23:22.477314|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-03-27 21:23:22.889384|INFO    |              |   |Puzzle precompute time: 400
+2017-03-27 21:23:22.889570|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-03-27 21:23:22.940243|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-03-27 21:23:22.940356|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-04-01 00:02:22.532394|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-04-01 00:02:22.532836|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-04-19 12:10:47.107863|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-04-22 15:50:57.150443|ERROR   |              |   |error reading tcp socket Connection reset by peer
+2017-04-24 23:02:51.524148|ERROR   |              |   |error reading tcp socket Connection reset by peer
+2017-05-01 00:02:22.574716|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-05-01 00:02:22.593253|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-06-01 00:02:22.574948|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-06-01 00:02:22.602737|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-06-01 12:07:42.905808|ERROR   |              |   |error reading tcp socket Connection reset by peer

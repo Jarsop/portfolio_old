@@ -1,0 +1,7 @@
+6
+##start
+salle2 2 5
+##verbose
+##end
+salle1 9 2
+salle2-salle1

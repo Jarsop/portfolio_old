@@ -1,0 +1,271 @@
+sous root par exemple
+
+python -V pour vérifier qu'on a bien python 2.7 mini
+
+cd /root
+apt install python-pip
+pip install --upgrade pip
+pip install --upgrade setuptools
+pip install --upgrade flexget
+
+===========================================================
+La conf
+
+mkdir -p /root/.config/flexget
+nano /root/.config/flexget/config.yml
+
+/!\ identation à respecter    chaque élément est décalé de 2 espaces (pas 1 seul ou un tab, que 2 espaces)
+
+templates:
+  movies-2016:
+    regexp:
+      reject_excluding:
+        - "2016"
+
+  1080pt411:
+    quality: 1080p
+    t411:
+      max_results: 100
+      category: Film
+      terms:
+        - HDrip 1080 [Rip HD depuis Bluray]
+        - TVripHD 1080 [Rip HD depuis Source Tv HD]
+        - Web-Dl 1080
+        - 2D (Standard)
+        - Français (VFF/Truefrench)
+        - Multi (Français inclus)
+  
+
+tasks:
+#  t411-films2016:
+#    accept_all: yes
+#    only_new: yes
+#    limit_new: 2
+#    template:
+#      - movies-2016
+#      - 1080pt411
+#    transmission:
+#      host: 127.0.0.1
+#      port: 9091
+#      username: poulpito
+#      password: xxxxxxxx
+
+
+
+donc la par exemple pour lire le script il faut partir des tasks  et regarder ce qu'elles demandent 
+t411-porn  accepte que les nouveaux (accept all étant un premier filtre possible)  maxi 2 par batch  avec template latesteporn  et envoi sur transmission
+
+le template latestporn va chercher 100 dernier résultats (c'est pas trié par ordre donc il faut toujours laisser 100 la) et dans la catégorie Vidéo 
+cette catégorie correspond à la cat porn video   (tu va voir après comment on la récupère mais faut mettre la conf d'abords)
+
+
+donc une fois que la conf est en place
+il faut ajouter ses id t411 avec la commande en remplacant ce que tu veux
+flexget t411 add-auth login password
+
+si tu veux changer les categories ou voir les terms de recherche
+flexget t411 list-cat
+flexget t411 list-terms  
+
+de mémoire 
+
+==============================================================
+reste à mettre un cron
+
+SOIT  a l'ancienne 
+*/15 * * * * /usr/local/bin/flexget --cron execute
+
+
+
+SOIT proprement bien beau via 
+@reboot /usr/local/bin/flexget -L verbose --logfile /var/log/flexget.log daemon start -d
+
+et rajouter en fin de conf.yml
+schedules:
+  - tasks: t411-porn
+    interval:
+      minutes: 10  
+
+
+pour lancer, tu refais la commande du cron   et pour couper  tu fais flexget daemon stop  dans la console 
+/!\ bien le faire avant update 
+
+==============================================================================================
+par exemple 
+
+voici ma conf sur la prod qui télécharge mes séries
+
+templates:
+  movies-2015:
+    regexp:
+      reject_excluding:
+        - "2015"
+  movies-2016:
+    regexp:
+      reject_excluding:
+        - "2016"
+
+  seen:
+    seen_movies: strict
+
+
+  1080pt411:
+    quality: 1080p h264
+    t411:
+      max_results: 100
+      category: Film
+      terms:
+        - HDrip 1080 [Rip HD depuis Bluray]
+        - TVripHD 1080 [Rip HD depuis Source Tv HD]
+        - Web-Dl 1080
+        - 2D (Standard)
+        - Français (VFF/Truefrench)
+        - Multi (Français inclus)
+
+
+  tv:
+    series:
+      - Marvels.Luke.Cage:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Westworld:
+          upgrade: no
+          quality: 1080p hdtv+ h264
+      - Marvels.Agent.Carter:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+          begin: S02E10
+      - Marvel's Agents Of S.H.I.E.L.D:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+          begin: S03E19
+      - The.X-Files:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - DC's.Legends.of.Tomorrow:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Better.Call.Saul:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Game.of.Thrones:
+          upgrade: no
+          quality: 1080p hdtv+ h264
+      - The.Walking.Dead:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Fear.The.Walking.Dead:
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+          begin: S02E01
+      - Colony:
+          upgrade: no
+          quality: 720p-1080p hdtv+ h264
+      - Marvels.Daredevil:
+          begin: S02E01
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Banshee:
+          begin: S04E01
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Person.of.Interest:
+          begin: S05E01
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+      - Mr.Robot:
+          begin: S02E00
+          upgrade: no
+          quality: 720p|1080p hdtv+ h264
+  tv2:
+    series:
+      - Plus.Belle.La.Vie:
+          begin: S12E220
+          upgrade: no
+          tracking: no
+
+  720-1080seriest411:
+    t411:
+      max_results: 200
+      category: Série TV
+      terms:
+        - VOSTFR
+  seriespblv:
+    t411:
+      max_results: 200
+      category: Série TV
+      terms:
+        - Français (VFF/Truefrench)
+
+  send_email_sam:
+    email:
+      from: flexget@ouranos.fr
+      to: poulpito@ouranos.fr
+      smtp_host: smtp.ouranos.fr
+      smtp_port: 587
+      smtp_username: services@ouranos.fr
+      smtp_password: xxxxxxx
+
+
+  send_email_multi:
+    email:
+      from: flexget@ouranos.fr
+      to:
+        - anais.facques@gmail.com
+        - poulpito@ouranos.fr
+      smtp_host: smtp.ouranos.fr
+      smtp_port: 587
+      smtp_username: services@ouranos.fr
+      smtp_password: xxxxxxxxx
+
+
+tasks:
+
+#  t411-films2016:
+#    accept_all: yes
+#    only_new: yes
+#    limit_new: 1
+#    template:
+#      - movies-2016
+#      - exist
+#      - 1080pt411
+#      - seen
+#      - send_email
+#    download: /torrents/autodl/
+
+
+
+  t411-series:
+    only_new: yes
+    template:
+      - send_email_sam
+      - 720-1080seriest411
+      - tv
+    download: /data/auto_torrent
+
+  t411-pblv:
+    only_new: yes
+    template:
+      - send_email_sam
+      - seriespblv
+      - tv2
+    download: /data/auto_torrent
+
+
+
+
+schedules:
+  - tasks: t411-series
+    interval:
+      minutes: 10
+
+
+========================================
+
+POUR MAJ
+
+pip install --upgrade pip
+pip install --upgrade setuptools
+pip install --upgrade flexget
+
+

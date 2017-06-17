@@ -1,0 +1,3 @@
+/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/CMakeFiles/21sh.dir

@@ -1,0 +1,16 @@
+20
+#rooms
+B 7 8
+C 5 7
+##start
+start 2 3
+D 5 4
+J 7 8
+##end
+end 4 7
+#tubes
+start-J
+end-D
+D-J
+qwerty-start
+C-B

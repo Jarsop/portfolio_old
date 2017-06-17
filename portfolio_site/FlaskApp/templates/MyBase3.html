@@ -1,0 +1,15 @@
+{% extends "bootstrap/base.html" %}
+
+{% block styles %}
+  {{super()}}
+  <link rel="stylesheet" href="{{url_for('static', filename ='css/Base.css', _external = True)}}" />
+{% endblock %}
+
+{% block navbar %}
+{{nav.top.render()}}
+{% endblock %}
+
+{% block body %}
+   {{super()}}
+   <div class="footer">ceci est footer commun</div>
+{% endblock %}

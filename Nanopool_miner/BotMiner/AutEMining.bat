@@ -1,0 +1,1 @@
+python "C:\Users\jpges\Documents\Nanopool_miner-20170502T145433Z-001\Nanopool_miner\BotMiner\run.py"

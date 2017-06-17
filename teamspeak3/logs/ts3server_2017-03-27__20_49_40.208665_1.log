@@ -1,0 +1,8 @@
+﻿2017-03-27 20:49:40.777175|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-03-27 20:49:40.778038|WARNING |VirtualServer |1  |--------------------------------------------------------
+2017-03-27 20:49:40.778075|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2017-03-27 20:49:40.778097|WARNING |VirtualServer |1  |token=9EeM7q5pSx4+8aevziUdV8y6ngvA1DC4xj6GmkM+
+2017-03-27 20:49:40.778115|WARNING |VirtualServer |1  |--------------------------------------------------------
+2017-03-27 20:51:29.812949|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2017-03-27 20:51:29.814243|INFO    |VirtualServer |1  |client 'Weedos'(id:4) used privilege key '9EeM7q5pSx4+8aevziUdV8y6ngvA1DC4xj6GmkM+' and was added to servergroup 'Server Admin'(id:6)
+2017-03-27 21:07:37.171114|INFO    |VirtualServerBase|1  |stopped

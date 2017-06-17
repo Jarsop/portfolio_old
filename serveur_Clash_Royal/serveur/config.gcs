@@ -1,0 +1,4 @@
+﻿<appSettings>
+  <add key="database" value="sqlite" />
+  <add key="patchServer" value="" />
+</appSettings>

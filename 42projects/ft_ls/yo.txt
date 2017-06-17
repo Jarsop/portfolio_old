@@ -1,0 +1,3788 @@
+./
+0
+0Undefined error: 0
+
+./libft/includes/.
+0
+20Not a directory
+
+./libft/includes/..
+0
+20Not a directory
+
+./libft/includes/libft.h
+0
+20Not a directory
+
+./libft/includes/.
+.
+20Sat Mar 12 15:42:31 2016
+Wed Feb 24 11:44:18 2016
+Wed Feb 24 11:44:18 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456310658
+
+./libft/includes/..
+..
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/includes/libft.h
+libft.h
+20Sat Mar 12 16:00:36 2016
+Wed Feb 24 11:44:18 2016
+Wed Feb 24 11:44:18 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456310658
+
+./libft/obj/.
+0
+20Not a directory
+
+./libft/obj/..
+0
+20Not a directory
+
+./libft/obj/ft_atoi.o
+0
+20Not a directory
+
+./libft/obj/ft_atoi_base.o
+0
+20Not a directory
+
+./libft/obj/ft_atol_base.o
+0
+20Not a directory
+
+./libft/obj/ft_btoa.o
+0
+20Not a directory
+
+./libft/obj/ft_bzero.o
+0
+20Not a directory
+
+./libft/obj/ft_chrswap.o
+0
+20Not a directory
+
+./libft/obj/ft_convert_base.o
+0
+20Not a directory
+
+./libft/obj/ft_dtobin.o
+0
+20Not a directory
+
+./libft/obj/ft_error.o
+0
+20Not a directory
+
+./libft/obj/ft_find_next_prime.o
+0
+20Not a directory
+
+./libft/obj/ft_htoa.o
+0
+20Not a directory
+
+./libft/obj/ft_is_prime.o
+0
+20Not a directory
+
+./libft/obj/ft_isalnum.o
+0
+20Not a directory
+
+./libft/obj/ft_isalpha.o
+0
+20Not a directory
+
+./libft/obj/ft_isascii.o
+0
+20Not a directory
+
+./libft/obj/ft_isdigit.o
+0
+20Not a directory
+
+./libft/obj/ft_isprint.o
+0
+20Not a directory
+
+./libft/obj/ft_iswap.o
+0
+20Not a directory
+
+./libft/obj/ft_itoa.o
+0
+20Not a directory
+
+./libft/obj/ft_itoa_base.o
+0
+20Not a directory
+
+./libft/obj/ft_lstadd.o
+0
+20Not a directory
+
+./libft/obj/ft_lstat.o
+0
+20Not a directory
+
+./libft/obj/ft_lstclrone.o
+0
+20Not a directory
+
+./libft/obj/ft_lstdel.o
+0
+20Not a directory
+
+./libft/obj/ft_lstdelone.o
+0
+20Not a directory
+
+./libft/obj/ft_lstend.o
+0
+20Not a directory
+
+./libft/obj/ft_lstiter.o
+0
+20Not a directory
+
+./libft/obj/ft_lstlast.o
+0
+20Not a directory
+
+./libft/obj/ft_lstmap.o
+0
+20Not a directory
+
+./libft/obj/ft_lstnew.o
+0
+20Not a directory
+
+./libft/obj/ft_lstpushback.o
+0
+20Not a directory
+
+./libft/obj/ft_lstpushend.o
+0
+20Not a directory
+
+./libft/obj/ft_lstsize.o
+0
+20Not a directory
+
+./libft/obj/ft_ltoa.o
+0
+20Not a directory
+
+./libft/obj/ft_ltoa_base.o
+0
+20Not a directory
+
+./libft/obj/ft_memalloc.o
+0
+20Not a directory
+
+./libft/obj/ft_memccpy.o
+0
+20Not a directory
+
+./libft/obj/ft_memchr.o
+0
+20Not a directory
+
+./libft/obj/ft_memcmp.o
+0
+20Not a directory
+
+./libft/obj/ft_memcpy.o
+0
+20Not a directory
+
+./libft/obj/ft_memdel.o
+0
+20Not a directory
+
+./libft/obj/ft_memmove.o
+0
+20Not a directory
+
+./libft/obj/ft_memset.o
+0
+20Not a directory
+
+./libft/obj/ft_print_words_tables.o
+0
+20Not a directory
+
+./libft/obj/ft_printbtoa.o
+0
+20Not a directory
+
+./libft/obj/ft_putchar.o
+0
+20Not a directory
+
+./libft/obj/ft_putchar_fd.o
+0
+20Not a directory
+
+./libft/obj/ft_putendl.o
+0
+20Not a directory
+
+./libft/obj/ft_putendl_fd.o
+0
+20Not a directory
+
+./libft/obj/ft_putlong.o
+0
+20Not a directory
+
+./libft/obj/ft_putnbr.o
+0
+20Not a directory
+
+./libft/obj/ft_putnbr_base.o
+0
+20Not a directory
+
+./libft/obj/ft_putnbr_fd.o
+0
+20Not a directory
+
+./libft/obj/ft_putstr.o
+0
+20Not a directory
+
+./libft/obj/ft_putstr_fd.o
+0
+20Not a directory
+
+./libft/obj/ft_recursive_factorial.o
+0
+20Not a directory
+
+./libft/obj/ft_recursive_power.o
+0
+20Not a directory
+
+./libft/obj/ft_sqrt.o
+0
+20Not a directory
+
+./libft/obj/ft_strcat.o
+0
+20Not a directory
+
+./libft/obj/ft_strchr.o
+0
+20Not a directory
+
+./libft/obj/ft_strclr.o
+0
+20Not a directory
+
+./libft/obj/ft_strcmp.o
+0
+20Not a directory
+
+./libft/obj/ft_strcpy.o
+0
+20Not a directory
+
+./libft/obj/ft_strcstr.o
+0
+20Not a directory
+
+./libft/obj/ft_strdel.o
+0
+20Not a directory
+
+./libft/obj/ft_strdup.o
+0
+20Not a directory
+
+./libft/obj/ft_strdupclr.o
+0
+20Not a directory
+
+./libft/obj/ft_strequ.o
+0
+20Not a directory
+
+./libft/obj/ft_striter.o
+0
+20Not a directory
+
+./libft/obj/ft_striteri.o
+0
+20Not a directory
+
+./libft/obj/ft_strjoin.o
+0
+20Not a directory
+
+./libft/obj/ft_strlcat.o
+0
+20Not a directory
+
+./libft/obj/ft_strlcpy.o
+0
+20Not a directory
+
+./libft/obj/ft_strlen.o
+0
+20Not a directory
+
+./libft/obj/ft_strmap.o
+0
+20Not a directory
+
+./libft/obj/ft_strmapi.o
+0
+20Not a directory
+
+./libft/obj/ft_strncat.o
+0
+20Not a directory
+
+./libft/obj/ft_strncmp.o
+0
+20Not a directory
+
+./libft/obj/ft_strncpy.o
+0
+20Not a directory
+
+./libft/obj/ft_strndup.o
+0
+20Not a directory
+
+./libft/obj/ft_strnequ.o
+0
+20Not a directory
+
+./libft/obj/ft_strnew.o
+0
+20Not a directory
+
+./libft/obj/ft_strnjoin.o
+0
+20Not a directory
+
+./libft/obj/ft_strnstr.o
+0
+20Not a directory
+
+./libft/obj/ft_strrchr.o
+0
+20Not a directory
+
+./libft/obj/ft_strrev.o
+0
+20Not a directory
+
+./libft/obj/ft_strsplit.o
+0
+20Not a directory
+
+./libft/obj/ft_strstr.o
+0
+20Not a directory
+
+./libft/obj/ft_strsub.o
+0
+20Not a directory
+
+./libft/obj/ft_strtrim.o
+0
+20Not a directory
+
+./libft/obj/ft_strtrimy.o
+0
+20Not a directory
+
+./libft/obj/ft_strwjoin.o
+0
+20Not a directory
+
+./libft/obj/ft_strwnjoin.o
+0
+20Not a directory
+
+./libft/obj/ft_tolower.o
+0
+20Not a directory
+
+./libft/obj/ft_toupper.o
+0
+20Not a directory
+
+./libft/obj/ft_ulpower.o
+0
+20Not a directory
+
+./libft/obj/ft_ultoa.o
+0
+20Not a directory
+
+./libft/obj/ft_ultoa_base.o
+0
+20Not a directory
+
+./libft/obj/.
+.
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/..
+..
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_atoi.o
+ft_atoi.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_atoi_base.o
+ft_atoi_base.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_atol_base.o
+ft_atol_base.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_btoa.o
+ft_btoa.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_bzero.o
+ft_bzero.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_chrswap.o
+ft_chrswap.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_convert_base.o
+ft_convert_base.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_dtobin.o
+ft_dtobin.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_error.o
+ft_error.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_find_next_prime.o
+ft_find_next_prime.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_htoa.o
+ft_htoa.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_is_prime.o
+ft_is_prime.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_isalnum.o
+ft_isalnum.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_isalpha.o
+ft_isalpha.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_isascii.o
+ft_isascii.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_isdigit.o
+ft_isdigit.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_isprint.o
+ft_isprint.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./libft/obj/ft_iswap.o
+ft_iswap.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_itoa.o
+ft_itoa.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_itoa_base.o
+ft_itoa_base.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstadd.o
+ft_lstadd.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstat.o
+ft_lstat.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstclrone.o
+ft_lstclrone.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_lstdel.o
+ft_lstdel.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstdelone.o
+ft_lstdelone.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstend.o
+ft_lstend.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstiter.o
+ft_lstiter.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstlast.o
+ft_lstlast.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstmap.o
+ft_lstmap.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstnew.o
+ft_lstnew.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstpushback.o
+ft_lstpushback.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstpushend.o
+ft_lstpushend.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_lstsize.o
+ft_lstsize.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_ltoa.o
+ft_ltoa.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_ltoa_base.o
+ft_ltoa_base.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_memalloc.o
+ft_memalloc.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memccpy.o
+ft_memccpy.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memchr.o
+ft_memchr.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memcmp.o
+ft_memcmp.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memcpy.o
+ft_memcpy.o
+20Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memdel.o
+ft_memdel.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memmove.o
+ft_memmove.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_memset.o
+ft_memset.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_print_words_tables.o
+ft_print_words_tables.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_printbtoa.o
+ft_printbtoa.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_putchar.o
+ft_putchar.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_putchar_fd.o
+ft_putchar_fd.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_putendl.o
+ft_putendl.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_putendl_fd.o
+ft_putendl_fd.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_putlong.o
+ft_putlong.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_putnbr.o
+ft_putnbr.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_putnbr_base.o
+ft_putnbr_base.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:49 2016
+Sat Mar 12 16:25:49 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796349
+
+./libft/obj/ft_putnbr_fd.o
+ft_putnbr_fd.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_putstr.o
+ft_putstr.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_putstr_fd.o
+ft_putstr_fd.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_recursive_factorial.o
+ft_recursive_factorial.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_recursive_power.o
+ft_recursive_power.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_sqrt.o
+ft_sqrt.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strcat.o
+ft_strcat.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strchr.o
+ft_strchr.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strclr.o
+ft_strclr.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strcmp.o
+ft_strcmp.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strcpy.o
+ft_strcpy.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strcstr.o
+ft_strcstr.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strdel.o
+ft_strdel.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strdup.o
+ft_strdup.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strdupclr.o
+ft_strdupclr.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strequ.o
+ft_strequ.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_striter.o
+ft_striter.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_striteri.o
+ft_striteri.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strjoin.o
+ft_strjoin.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strlcat.o
+ft_strlcat.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strlcpy.o
+ft_strlcpy.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strlen.o
+ft_strlen.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strmap.o
+ft_strmap.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strmapi.o
+ft_strmapi.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strncat.o
+ft_strncat.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strncmp.o
+ft_strncmp.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strncpy.o
+ft_strncpy.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strndup.o
+ft_strndup.o
+20Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strnequ.o
+ft_strnequ.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strnew.o
+ft_strnew.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strnjoin.o
+ft_strnjoin.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:50 2016
+Sat Mar 12 16:25:50 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796350
+
+./libft/obj/ft_strnstr.o
+ft_strnstr.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strrchr.o
+ft_strrchr.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strrev.o
+ft_strrev.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strsplit.o
+ft_strsplit.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strstr.o
+ft_strstr.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strsub.o
+ft_strsub.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strtrim.o
+ft_strtrim.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strtrimy.o
+ft_strtrimy.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strwjoin.o
+ft_strwjoin.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_strwnjoin.o
+ft_strwnjoin.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_tolower.o
+ft_tolower.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_toupper.o
+ft_toupper.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_ulpower.o
+ft_ulpower.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_ultoa.o
+ft_ultoa.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj/ft_ultoa_base.o
+ft_ultoa_base.o
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/sources/.
+0
+20Not a directory
+
+./libft/sources/..
+0
+20Not a directory
+
+./libft/sources/ft_atoi.c
+0
+20Not a directory
+
+./libft/sources/ft_atoi_base.c
+0
+20Not a directory
+
+./libft/sources/ft_atol_base.c
+0
+20Not a directory
+
+./libft/sources/ft_btoa.c
+0
+20Not a directory
+
+./libft/sources/ft_bzero.c
+0
+20Not a directory
+
+./libft/sources/ft_chrswap.c
+0
+20Not a directory
+
+./libft/sources/ft_convert_base.c
+0
+20Not a directory
+
+./libft/sources/ft_dtoa.c
+0
+20Not a directory
+
+./libft/sources/ft_dtobin.c
+0
+20Not a directory
+
+./libft/sources/ft_error.c
+0
+20Not a directory
+
+./libft/sources/ft_find_next_prime.c
+0
+20Not a directory
+
+./libft/sources/ft_htoa.c
+0
+20Not a directory
+
+./libft/sources/ft_is_prime.c
+0
+20Not a directory
+
+./libft/sources/ft_isalnum.c
+0
+20Not a directory
+
+./libft/sources/ft_isalpha.c
+0
+20Not a directory
+
+./libft/sources/ft_isascii.c
+0
+20Not a directory
+
+./libft/sources/ft_isdigit.c
+0
+20Not a directory
+
+./libft/sources/ft_isprint.c
+0
+20Not a directory
+
+./libft/sources/ft_iswap.c
+0
+20Not a directory
+
+./libft/sources/ft_itoa.c
+0
+20Not a directory
+
+./libft/sources/ft_itoa_base.c
+0
+20Not a directory
+
+./libft/sources/ft_lstadd.c
+0
+20Not a directory
+
+./libft/sources/ft_lstat.c
+0
+20Not a directory
+
+./libft/sources/ft_lstclrone.c
+0
+20Not a directory
+
+./libft/sources/ft_lstdel.c
+0
+20Not a directory
+
+./libft/sources/ft_lstdelone.c
+0
+20Not a directory
+
+./libft/sources/ft_lstend.c
+0
+20Not a directory
+
+./libft/sources/ft_lstiter.c
+0
+20Not a directory
+
+./libft/sources/ft_lstlast.c
+0
+20Not a directory
+
+./libft/sources/ft_lstmap.c
+0
+20Not a directory
+
+./libft/sources/ft_lstnew.c
+0
+20Not a directory
+
+./libft/sources/ft_lstpushback.c
+0
+20Not a directory
+
+./libft/sources/ft_lstpushend.c
+0
+20Not a directory
+
+./libft/sources/ft_lstsize.c
+0
+20Not a directory
+
+./libft/sources/ft_ltoa.c
+0
+20Not a directory
+
+./libft/sources/ft_ltoa_base.c
+0
+20Not a directory
+
+./libft/sources/ft_memalloc.c
+0
+20Not a directory
+
+./libft/sources/ft_memccpy.c
+0
+20Not a directory
+
+./libft/sources/ft_memchr.c
+0
+20Not a directory
+
+./libft/sources/ft_memcmp.c
+0
+20Not a directory
+
+./libft/sources/ft_memcpy.c
+0
+20Not a directory
+
+./libft/sources/ft_memdel.c
+0
+20Not a directory
+
+./libft/sources/ft_memmove.c
+0
+20Not a directory
+
+./libft/sources/ft_memset.c
+0
+20Not a directory
+
+./libft/sources/ft_print_words_tables.c
+0
+20Not a directory
+
+./libft/sources/ft_printbtoa.c
+0
+20Not a directory
+
+./libft/sources/ft_putchar.c
+0
+20Not a directory
+
+./libft/sources/ft_putchar_fd.c
+0
+20Not a directory
+
+./libft/sources/ft_putendl.c
+0
+20Not a directory
+
+./libft/sources/ft_putendl_fd.c
+0
+20Not a directory
+
+./libft/sources/ft_putlong.c
+0
+20Not a directory
+
+./libft/sources/ft_putnbr.c
+0
+20Not a directory
+
+./libft/sources/ft_putnbr_base.c
+0
+20Not a directory
+
+./libft/sources/ft_putnbr_fd.c
+0
+20Not a directory
+
+./libft/sources/ft_putstr.c
+0
+20Not a directory
+
+./libft/sources/ft_putstr_fd.c
+0
+20Not a directory
+
+./libft/sources/ft_recursive_factorial.c
+0
+20Not a directory
+
+./libft/sources/ft_recursive_power.c
+0
+20Not a directory
+
+./libft/sources/ft_sqrt.c
+0
+20Not a directory
+
+./libft/sources/ft_strcat.c
+0
+20Not a directory
+
+./libft/sources/ft_strchr.c
+0
+20Not a directory
+
+./libft/sources/ft_strclr.c
+0
+20Not a directory
+
+./libft/sources/ft_strcmp.c
+0
+20Not a directory
+
+./libft/sources/ft_strcpy.c
+0
+20Not a directory
+
+./libft/sources/ft_strcstr.c
+0
+20Not a directory
+
+./libft/sources/ft_strdel.c
+0
+20Not a directory
+
+./libft/sources/ft_strdup.c
+0
+20Not a directory
+
+./libft/sources/ft_strdupclr.c
+0
+20Not a directory
+
+./libft/sources/ft_strequ.c
+0
+20Not a directory
+
+./libft/sources/ft_striter.c
+0
+20Not a directory
+
+./libft/sources/ft_striteri.c
+0
+20Not a directory
+
+./libft/sources/ft_strjoin.c
+0
+20Not a directory
+
+./libft/sources/ft_strlcat.c
+0
+20Not a directory
+
+./libft/sources/ft_strlcpy.c
+0
+20Not a directory
+
+./libft/sources/ft_strlen.c
+0
+20Not a directory
+
+./libft/sources/ft_strmap.c
+0
+20Not a directory
+
+./libft/sources/ft_strmapi.c
+0
+20Not a directory
+
+./libft/sources/ft_strncat.c
+0
+20Not a directory
+
+./libft/sources/ft_strncmp.c
+0
+20Not a directory
+
+./libft/sources/ft_strncpy.c
+0
+20Not a directory
+
+./libft/sources/ft_strndup.c
+0
+20Not a directory
+
+./libft/sources/ft_strnequ.c
+0
+20Not a directory
+
+./libft/sources/ft_strnew.c
+0
+20Not a directory
+
+./libft/sources/ft_strnjoin.c
+0
+20Not a directory
+
+./libft/sources/ft_strnstr.c
+0
+20Not a directory
+
+./libft/sources/ft_strrchr.c
+0
+20Not a directory
+
+./libft/sources/ft_strrev.c
+0
+20Not a directory
+
+./libft/sources/ft_strsplit.c
+0
+20Not a directory
+
+./libft/sources/ft_strstr.c
+0
+20Not a directory
+
+./libft/sources/ft_strsub.c
+0
+20Not a directory
+
+./libft/sources/ft_strtrim.c
+0
+20Not a directory
+
+./libft/sources/ft_strtrimy.c
+0
+20Not a directory
+
+./libft/sources/ft_strwjoin.c
+0
+20Not a directory
+
+./libft/sources/ft_strwnjoin.c
+0
+20Not a directory
+
+./libft/sources/ft_tolower.c
+0
+20Not a directory
+
+./libft/sources/ft_toupper.c
+0
+20Not a directory
+
+./libft/sources/ft_ulpower.c
+0
+20Not a directory
+
+./libft/sources/ft_ultoa.c
+0
+20Not a directory
+
+./libft/sources/ft_ultoa_base.c
+0
+20Not a directory
+
+./libft/sources/.
+.
+20Sat Mar 12 15:42:31 2016
+Fri Feb 26 18:54:33 2016
+Fri Feb 26 18:54:33 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456509273
+
+./libft/sources/..
+..
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/sources/ft_atoi.c
+ft_atoi.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_atoi_base.c
+ft_atoi_base.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_atol_base.c
+ft_atol_base.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_btoa.c
+ft_btoa.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_bzero.c
+ft_bzero.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_chrswap.c
+ft_chrswap.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_convert_base.c
+ft_convert_base.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_dtoa.c
+ft_dtoa.c
+20Sat Mar  5 15:39:09 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_dtobin.c
+ft_dtobin.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_error.c
+ft_error.c
+20Sat Mar 12 16:11:46 2016
+Wed Feb 24 14:16:18 2016
+Wed Feb 24 14:16:18 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456319778
+
+./libft/sources/ft_find_next_prime.c
+ft_find_next_prime.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_htoa.c
+ft_htoa.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_is_prime.c
+ft_is_prime.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_isalnum.c
+ft_isalnum.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_isalpha.c
+ft_isalpha.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_isascii.c
+ft_isascii.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_isdigit.c
+ft_isdigit.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_isprint.c
+ft_isprint.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_iswap.c
+ft_iswap.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_itoa.c
+ft_itoa.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_itoa_base.c
+ft_itoa_base.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_lstadd.c
+ft_lstadd.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_lstat.c
+ft_lstat.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_lstclrone.c
+ft_lstclrone.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_lstdel.c
+ft_lstdel.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_lstdelone.c
+ft_lstdelone.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_lstend.c
+ft_lstend.c
+20Sat Mar 12 16:11:43 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_lstiter.c
+ft_lstiter.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_lstlast.c
+ft_lstlast.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_lstmap.c
+ft_lstmap.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_lstnew.c
+ft_lstnew.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_lstpushback.c
+ft_lstpushback.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_lstpushend.c
+ft_lstpushend.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_lstsize.c
+ft_lstsize.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_ltoa.c
+ft_ltoa.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_ltoa_base.c
+ft_ltoa_base.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_memalloc.c
+ft_memalloc.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_memccpy.c
+ft_memccpy.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_memchr.c
+ft_memchr.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_memcmp.c
+ft_memcmp.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_memcpy.c
+ft_memcpy.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_memdel.c
+ft_memdel.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_memmove.c
+ft_memmove.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_memset.c
+ft_memset.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_print_words_tables.c
+ft_print_words_tables.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:05 2016
+Tue Feb 23 16:34:05 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241645
+
+./libft/sources/ft_printbtoa.c
+ft_printbtoa.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_putchar.c
+ft_putchar.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_putchar_fd.c
+ft_putchar_fd.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_putendl.c
+ft_putendl.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_putendl_fd.c
+ft_putendl_fd.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_putlong.c
+ft_putlong.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_putnbr.c
+ft_putnbr.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_putnbr_base.c
+ft_putnbr_base.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_putnbr_fd.c
+ft_putnbr_fd.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_putstr.c
+ft_putstr.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_putstr_fd.c
+ft_putstr_fd.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_recursive_factorial.c
+ft_recursive_factorial.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_recursive_power.c
+ft_recursive_power.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_sqrt.c
+ft_sqrt.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_strcat.c
+ft_strcat.c
+20Sat Mar 12 16:11:44 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_strchr.c
+ft_strchr.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_strclr.c
+ft_strclr.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_strcmp.c
+ft_strcmp.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_strcpy.c
+ft_strcpy.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_strcstr.c
+ft_strcstr.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_strdel.c
+ft_strdel.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_strdup.c
+ft_strdup.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_strdupclr.c
+ft_strdupclr.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_strequ.c
+ft_strequ.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_striter.c
+ft_striter.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_striteri.c
+ft_striteri.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_strjoin.c
+ft_strjoin.c
+20Sat Mar 12 16:11:45 2016
+Fri Feb 26 18:52:13 2016
+Fri Feb 26 18:52:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456509133
+
+./libft/sources/ft_strlcat.c
+ft_strlcat.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_strlcpy.c
+ft_strlcpy.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_strlen.c
+ft_strlen.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_strmap.c
+ft_strmap.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_strmapi.c
+ft_strmapi.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_strncat.c
+ft_strncat.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_strncmp.c
+ft_strncmp.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_strncpy.c
+ft_strncpy.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_strndup.c
+ft_strndup.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_strnequ.c
+ft_strnequ.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_strnew.c
+ft_strnew.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_strnjoin.c
+ft_strnjoin.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_strnstr.c
+ft_strnstr.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_strrchr.c
+ft_strrchr.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_strrev.c
+ft_strrev.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:11 2016
+Tue Feb 23 16:34:11 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241651
+
+./libft/sources/ft_strsplit.c
+ft_strsplit.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_strstr.c
+ft_strstr.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:06 2016
+Tue Feb 23 16:34:06 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241646
+
+./libft/sources/ft_strsub.c
+ft_strsub.c
+20Sat Mar 12 16:11:45 2016
+Tue Feb 23 16:34:10 2016
+Tue Feb 23 16:34:10 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241650
+
+./libft/sources/ft_strtrim.c
+ft_strtrim.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:08 2016
+Tue Feb 23 16:34:08 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241648
+
+./libft/sources/ft_strtrimy.c
+ft_strtrimy.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:09 2016
+Tue Feb 23 16:34:09 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241649
+
+./libft/sources/ft_strwjoin.c
+ft_strwjoin.c
+20Sat Mar 12 16:11:46 2016
+Fri Feb 26 18:54:33 2016
+Fri Feb 26 18:54:33 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456509273
+
+./libft/sources/ft_strwnjoin.c
+ft_strwnjoin.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:13 2016
+Tue Feb 23 16:34:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241653
+
+./libft/sources/ft_tolower.c
+ft_tolower.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:14 2016
+Tue Feb 23 16:34:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241654
+
+./libft/sources/ft_toupper.c
+ft_toupper.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:05 2016
+Tue Feb 23 16:34:05 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241645
+
+./libft/sources/ft_ulpower.c
+ft_ulpower.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/sources/ft_ultoa.c
+ft_ultoa.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:12 2016
+Tue Feb 23 16:34:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241652
+
+./libft/sources/ft_ultoa_base.c
+ft_ultoa_base.c
+20Sat Mar 12 16:11:46 2016
+Tue Feb 23 16:34:07 2016
+Tue Feb 23 16:34:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456241647
+
+./libft/.
+0
+20Not a directory
+
+./libft/..
+0
+20Not a directory
+
+./libft/Makefile
+0
+20Not a directory
+
+./libft/includes
+0
+20Not a directory
+
+./libft/libft.a
+0
+20Not a directory
+
+./libft/obj
+0
+20Not a directory
+
+./libft/sources
+0
+20Not a directory
+
+./libft/.
+.
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/..
+..
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./libft/Makefile
+Makefile
+20Sat Mar 12 16:04:56 2016
+Fri Feb 26 21:55:07 2016
+Fri Feb 26 21:55:07 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456520107
+
+./libft/includes
+includes
+20Sat Mar 12 15:42:31 2016
+Wed Feb 24 11:44:18 2016
+Wed Feb 24 11:44:18 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456310658
+
+./libft/libft.a
+libft.a
+20Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/obj
+obj
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./libft/sources
+sources
+20Sat Mar 12 15:42:31 2016
+Fri Feb 26 18:54:33 2016
+Fri Feb 26 18:54:33 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456509273
+
+./includes/.
+0
+20Not a directory
+
+./includes/..
+0
+20Not a directory
+
+./includes/ft_ls.h
+0
+20Not a directory
+
+./includes/.
+.
+20Sat Mar 12 16:23:54 2016
+Sat Mar 12 16:23:04 2016
+Sat Mar 12 16:23:04 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796184
+
+./includes/..
+..
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./includes/ft_ls.h
+ft_ls.h
+20Sat Mar 12 16:49:46 2016
+Sat Mar 12 16:23:04 2016
+Sat Mar 12 16:23:04 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796184
+
+./obj/.
+0
+20Not a directory
+
+./obj/..
+0
+20Not a directory
+
+./obj/ft_lsfree.o
+0
+20Not a directory
+
+./obj/ft_lsnew.o
+0
+20Not a directory
+
+./obj/ft_lspushback.o
+0
+20Not a directory
+
+./obj/ft_lsstart.o
+0
+20Not a directory
+
+./obj/ft_tojob.o
+0
+20Not a directory
+
+./obj/main.o
+0
+20Not a directory
+
+./obj/.
+.
+20Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810153
+
+./obj/..
+..
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./obj/ft_lsfree.o
+ft_lsfree.o
+20Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./obj/ft_lsnew.o
+ft_lsnew.o
+20Sat Mar 12 17:45:31 2016
+Sat Mar 12 17:45:31 2016
+Sat Mar 12 17:45:31 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457801131
+
+./obj/ft_lspushback.o
+ft_lspushback.o
+20Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./obj/ft_lsstart.o
+ft_lsstart.o
+20Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./obj/ft_tojob.o
+ft_tojob.o
+20Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810153
+
+./obj/main.o
+main.o
+20Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+Sat Mar 12 16:25:48 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796348
+
+./..a/.
+0
+20Not a directory
+
+./..a/..
+0
+20Not a directory
+
+./..a/.a
+0
+20Not a directory
+
+./..a/a
+0
+20Not a directory
+
+./..a/b
+0
+20Not a directory
+
+./..a/.
+.
+20Sat Mar 12 19:02:40 2016
+Sat Mar 12 19:02:40 2016
+Sat Mar 12 19:02:40 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805760
+
+./..a/..
+..
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./..a/.a
+.a
+20Sat Mar 12 19:02:40 2016
+Sat Mar 12 19:02:40 2016
+Sat Mar 12 19:02:40 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805760
+
+./..a/a
+a
+20Sat Mar 12 18:59:12 2016
+Sat Mar 12 18:59:12 2016
+Sat Mar 12 18:59:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805552
+
+./..a/b
+b
+20Sat Mar 12 18:59:14 2016
+Sat Mar 12 18:59:14 2016
+Sat Mar 12 18:59:14 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805554
+
+./AAA/.
+0
+20Not a directory
+
+./AAA/..
+0
+20Not a directory
+
+./AAA/.
+.
+20Sat Mar 12 15:42:31 2016
+Thu Feb 25 21:49:41 2016
+Thu Feb 25 21:49:41 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456433381
+
+./AAA/..
+..
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./sources/.
+0
+20Not a directory
+
+./sources/..
+0
+20Not a directory
+
+./sources/ft_lsfree.c
+0
+20Not a directory
+
+./sources/ft_lsnew.c
+0
+20Not a directory
+
+./sources/ft_lspushback.c
+0
+20Not a directory
+
+./sources/ft_lsstart.c
+0
+20Not a directory
+
+./sources/ft_lstnew.c
+0
+20Not a directory
+
+./sources/ft_tojob.c
+0
+20Not a directory
+
+./sources/main.c
+0
+20Not a directory
+
+./sources/.
+.
+20Sat Mar 12 20:15:52 2016
+Sat Mar 12 20:15:51 2016
+Sat Mar 12 20:15:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810151
+
+./sources/..
+..
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./sources/ft_lsfree.c
+ft_lsfree.c
+20Sat Mar 12 16:17:37 2016
+Sat Mar 12 16:17:37 2016
+Sat Mar 12 16:17:37 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457795857
+
+./sources/ft_lsnew.c
+ft_lsnew.c
+20Sat Mar 12 17:45:29 2016
+Sat Mar 12 17:45:29 2016
+Sat Mar 12 17:45:29 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457801129
+
+./sources/ft_lspushback.c
+ft_lspushback.c
+20Sat Mar 12 16:15:23 2016
+Sat Mar 12 16:15:23 2016
+Sat Mar 12 16:15:23 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457795723
+
+./sources/ft_lsstart.c
+ft_lsstart.c
+20Sat Mar 12 16:11:41 2016
+Sat Mar 12 16:11:41 2016
+Sat Mar 12 16:11:41 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457795501
+
+./sources/ft_lstnew.c
+ft_lstnew.c
+20Sat Mar 12 15:57:37 2016
+Fri Feb 26 18:22:13 2016
+Fri Feb 26 18:22:13 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456507333
+
+./sources/ft_tojob.c
+ft_tojob.c
+20Sat Mar 12 20:15:51 2016
+Sat Mar 12 20:15:51 2016
+Sat Mar 12 20:15:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810151
+
+./sources/main.c
+main.c
+20Sat Mar 12 15:57:37 2016
+Wed Feb 24 17:24:39 2016
+Wed Feb 24 17:24:39 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456331079
+
+./.
+0
+20Not a directory
+
+./..
+0
+20Not a directory
+
+./..a
+0
+20Not a directory
+
+./AAA
+0
+20Not a directory
+
+./Makefile
+0
+20Not a directory
+
+./auteur
+0
+20Not a directory
+
+./bbb
+0
+20Not a directory
+
+./ft_ls
+0
+20Not a directory
+
+./includes
+0
+20Not a directory
+
+./libft
+0
+20Not a directory
+
+./log.txt
+0
+20Not a directory
+
+./obj
+0
+20Not a directory
+
+./sources
+0
+20Not a directory
+
+./yo.txt
+0
+20Not a directory
+
+./.
+.
+20Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+Sat Mar 12 19:05:02 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805902
+
+./..
+..
+20Sat Mar 12 15:42:30 2016
+Sat Mar  5 15:38:46 2016
+Sat Mar  5 15:38:46 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457188726
+
+./..a
+..a
+20Sat Mar 12 19:02:40 2016
+Sat Mar 12 19:02:40 2016
+Sat Mar 12 19:02:40 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457805760
+
+./AAA
+AAA
+20Sat Mar 12 15:42:31 2016
+Thu Feb 25 21:49:41 2016
+Thu Feb 25 21:49:41 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456433381
+
+./Makefile
+Makefile
+20Sat Mar 12 16:04:56 2016
+Fri Feb 26 16:59:28 2016
+Fri Feb 26 16:59:28 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456502368
+
+./auteur
+auteur
+20Wed Feb 24 09:41:33 2016
+Wed Feb 24 09:41:33 2016
+Wed Feb 24 09:41:33 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456303293
+
+./bbb
+bbb
+20Fri Feb 26 16:59:41 2016
+Fri Feb 26 16:59:41 2016
+Fri Feb 26 16:59:47 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1456502381
+
+./ft_ls
+ft_ls
+20Sat Mar 12 20:15:54 2016
+Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810153
+
+./includes
+includes
+20Sat Mar 12 16:23:54 2016
+Sat Mar 12 16:23:04 2016
+Sat Mar 12 16:23:04 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796184
+
+./libft
+libft
+20Sat Mar 12 16:25:52 2016
+Sat Mar 12 16:25:51 2016
+Sat Mar 12 16:25:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457796351
+
+./log.txt
+log.txt
+20Sat Mar 12 19:19:20 2016
+Sat Mar 12 19:19:04 2016
+Sat Mar 12 19:19:04 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457806744
+
+./obj
+obj
+20Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+Sat Mar 12 20:15:53 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810153
+
+./sources
+sources
+20Sat Mar 12 20:15:52 2016
+Sat Mar 12 20:15:51 2016
+Sat Mar 12 20:15:51 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810151
+
+./yo.txt
+yo.txt
+20Sat Mar 12 19:10:03 2016
+Sat Mar 12 20:16:12 2016
+Sat Mar 12 20:16:12 2016
+2015_paris
+jgeslin
+/nfs/2015/j/jgeslin
+/bin/zsh
+1457810172
+
+
+
+
+

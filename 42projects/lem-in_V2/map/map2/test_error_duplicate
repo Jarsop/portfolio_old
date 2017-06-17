@@ -1,0 +1,11 @@
+8
+##end
+endroom 0 5
+##start
+startroom 9 5
+QW 5 6
+AS 4 7
+QW 8 1
+endroom-AS
+AS-QW
+QW-startroom

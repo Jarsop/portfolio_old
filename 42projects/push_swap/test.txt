@@ -1,0 +1,5 @@
+//penser au +0
+// retirer le Error si pas d'arguments
+./push_swap `ruby -e "puts (-1000..1000).to_a.shuffle.join(' ')"`
+./push_swap `ruby -e "puts (-5000..5000).to_a.reverse.insert(rand(8000) + 1000, 10001).join(' ')"`
+// test 1 2 3 4 5 8 7

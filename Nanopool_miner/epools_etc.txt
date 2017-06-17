@@ -1,0 +1,5 @@
+POOL: etc-eu1.nanopool.org:19999, WALLET: 0xce478277c69fb38d76760ae3a555c23afa1311a1, PSW: Shadow6, WORKER: , ESM: 0, ALLPOOLS: 1
+POOL: etc-eu2.nanopool.org:19999, WALLET: 0xce478277c69fb38d76760ae3a555c23afa1311a1, PSW: Shadow7, WORKER: , ESM: 0, ALLPOOLS: 1
+POOL: etc-us-east1.nanopool.org:19999, WALLET: 0xce478277c69fb38d76760ae3a555c23afa1311a1, PSW: Shadow8, WORKER: , ESM: 0, ALLPOOLS: 1
+POOL: etc-us-west1.nanopool.org:19999, WALLET: 0xce478277c69fb38d76760ae3a555c23afa1311a1, PSW: Shadow9, WORKER: , ESM: 0, ALLPOOLS: 1
+POOL: etc-asia1.nanopool.org:19999, WALLET: 0xce478277c69fb38d76760ae3a555c23afa1311a1, PSW: Shadow10, WORKER: , ESM: 0, ALLPOOLS: 1

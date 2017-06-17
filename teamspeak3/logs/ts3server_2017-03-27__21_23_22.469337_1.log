@@ -1,0 +1,23 @@
+﻿2017-03-27 21:23:22.940160|INFO    |VirtualServer |1  |listening on 0.0.0.0:4242, :::4242
+2017-03-28 21:12:18.382044|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2017-03-31 15:11:23.321919|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2017-04-14 14:06:16.798240|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2017-04-24 19:41:33.654812|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2017-04-24 23:01:20.265301|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2017-04-25 12:02:59.609756|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-04-25 16:39:36.355083|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2017-04-25 17:11:36.827533|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2017-04-29 18:34:42.626619|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2017-04-29 19:52:27.912679|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2017-04-29 20:55:22.863515|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-04-29 20:56:35.034151|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2017-04-29 21:08:25.826477|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2017-04-29 21:09:42.016052|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2017-04-29 21:14:21.731243|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-05-09 14:19:17.743401|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2017-05-14 19:40:31.607072|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2017-05-27 12:14:24.351450|INFO    |VirtualServer |1  |client (id:8) was added to servergroup 'Normal'(id:7) by client 'Weedos'(id:4)
+2017-05-27 12:14:34.396431|INFO    |VirtualServer |1  |client 'razzen'(id:8) was added to channelgroup 'Operator'(id:6) by client 'Weedos'(id:4) in channel 'Main'(id:1)
+2017-05-27 12:14:59.382526|INFO    |VirtualServer |1  |client 'razzen'(id:8) was added to channelgroup 'Operator'(id:6) by client 'Weedos'(id:4) in channel 'Clash Royale'(id:3)
+2017-05-27 12:15:01.710558|INFO    |VirtualServer |1  |client 'razzen'(id:8) was added to channelgroup 'Operator'(id:6) by client 'Weedos'(id:4) in channel 'H1Z1'(id:4)
+2017-06-13 09:42:32.485204|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet

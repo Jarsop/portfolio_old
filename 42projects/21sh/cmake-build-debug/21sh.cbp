@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="21sh"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21sh">
+				<Option output="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/21sh" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 21sh"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21sh/fast">
+				<Option output="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/21sh" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 21sh/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jgeslin/Documents/work/42projects/project/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/includes/sh.h">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/includes/ft_printf.h">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/includes/libft.h">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_atoi.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_atoi_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_atol_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_btoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_bzero.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_chrswap.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_convert_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_dtoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_dtobin.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_error.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_find_next_prime.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_freeitab.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_freestab.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_flags.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_flags2.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_flags3.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_tools.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_tools2.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_tools3.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_functions_tools4.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_getwst.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_help.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_help_flag.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_help_flag2.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_helpstr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_htoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_init_tab.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_init_tab2.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_is_prime.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_isalnum.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_isalpha.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_isascii.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_isdigit.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ispaire.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_isprint.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_iswap.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_itoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_itoa_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ldstadd.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ldstassback.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ldstassend.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ldstnew.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ldstpushback.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ldstpushend.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstadd.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstat.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstclrlast.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstclrone.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstdel.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstdelone.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstdup.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstend.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstiter.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstlast.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstmap.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstnew.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstpushback.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstpushend.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_lstsize.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ltoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ltoa_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memalloc.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memccpy.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memchr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memcmp.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memcpy.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memdel.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memmove.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_memset.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_patch.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_print_words_tables.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_printbtoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_printf.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putchar.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putchar_fd.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putendl.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putendl_fd.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putlong.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putnbr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putnbr_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putnbr_fd.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putsdl.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putstr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_putstr_fd.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_recursive_factorial.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_recursive_power.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_sqrt.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_stralnum.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strascii.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strcat.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strchr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strclr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strcmp.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strconv.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strcpy.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strcstr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strdel.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strdigit.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strdup.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strdupclr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strequ.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_striter.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_striteri.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strjoin.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strlcat.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strlcpy.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strlen.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strmap.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strmapi.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strncat.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strncmp.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strncpy.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strndup.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strnequ.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strnew.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strnjoin.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strnrstr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strnstr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strnstrct.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strrchr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strrev.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strsplit.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strstr.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strstrct.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strsub.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strtrim.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strtrimy.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strwjoin.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_strwnjoin.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_tolower.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_toupper.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ulpower.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ultoa.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_ultoa_base.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/ft_wformat.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/libft/sources/get_next_line.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/sources/key_bind.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/sources/main.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/sources/make.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/sources/read.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/sources/termcaps.c">
+			<Option target="21sh"/>
+		</Unit>
+		<Unit filename="/Users/jgeslin/Documents/work/42projects/project/21sh/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

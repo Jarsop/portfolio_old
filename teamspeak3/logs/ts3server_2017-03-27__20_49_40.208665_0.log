@@ -1,0 +1,18 @@
+﻿2017-03-27 20:49:40.208696|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.6 (2016-11-08 08:48:33)
+2017-03-27 20:49:40.208746|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.4.0-64-generic #85-Ubuntu SMP Mon Feb 20 11:50:30 UTC 2017 x86_64 Binary: 64bit
+2017-03-27 20:49:40.208761|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2017-03-27 20:49:40.208770|INFO    |ServerLibPriv |   |Using hardware aes
+2017-03-27 20:49:40.209178|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-03-27 20:49:40.209197|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-03-27 20:49:40.209306|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-03-27 20:49:40.216294|INFO    |SQL           |   |db_CreateTables() tables created
+2017-03-27 20:49:40.238388|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-03-27 20:49:40.650889|INFO    |              |   |Puzzle precompute time: 400
+2017-03-27 20:49:40.651369|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-03-27 20:49:40.651795|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-03-27 20:49:40.651862|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-03-27 20:49:40.778266|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-03-27 20:49:40.778520|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-03-27 20:59:58.013425|INFO    |Query         |   |query from 50 109.13.27.215:62268 issued: login with account "serveradmin"(serveradmin)
+2017-03-27 21:04:52.888404|INFO    |Query         |   |query from 50 109.13.27.215:62531 issued: login with account "serveradmin"(serveradmin)
+2017-03-27 21:07:37.120298|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.
