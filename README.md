@@ -1,2 +1,2 @@
 # portfolio
-portfolio contenant divers projets pédagogique et personnel
+portfolio contenant divers projets pédagogiques et personnels
